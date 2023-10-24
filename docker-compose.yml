@@ -1,0 +1,22 @@
+version: "3.7"
+services:
+  front: 
+    image: node:12.18-alpine
+    command: yarn run dev
+    ports:
+      - 3000:3000
+    working_dir: /usr/app/
+    volumes:
+      - ./:/usr/app/
+  install: 
+    image: node:12.18-alpine
+    command: yarn install
+    working_dir: /usr/app/
+    volumes:
+      - ./:/usr/app/
+  build: 
+    image: node:12.18-alpine
+    command: yarn run build
+    working_dir: /usr/app/
+    volumes:
+      - ./:/usr/app/

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="theme-color" content="#000000" />
+		<meta name="description" content="" />
+		<link rel="apple-touch-icon" href="%PUBLIC_URL%/apple_icon.png" />
+		<link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+		<link
+			href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Roboto&display=swap"
+			rel="stylesheet"
+		/>
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+		/>
+		<style>
+			#enable-banner-install {
+				display: none;
+				position: fixed;
+				left: 0;
+				bottom: 0;
+				z-index: 999;
+				background-color: white;
+				width: 100%;
+				padding: 15px;
+			}
+			#close-banner-install {
+				display: none;
+				position: fixed;
+				right: 15px;
+				bottom: 25px;
+				z-index: 1000;
+				color: black;
+			}
+		</style>
+		<title>Click Company</title>
+	</head>
+	<body>
+		<button type="button" id="enable-banner-install">
+			Clique aqui e instale o Click Company!
+		</button>
+		<button type="button" id="close-banner-install">
+			<i class="fas fa-times"></i>
+		</button>
+		<noscript>You need to enable JavaScript to run this app.</noscript>
+		<div id="root"></div>
+		<script src="app.js"></script>
+	</body>
+</html>

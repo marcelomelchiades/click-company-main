@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.913d4371.chunk.css",
+    "main.js": "/static/js/main.72408d3f.chunk.js",
+    "main.js.map": "/static/js/main.72408d3f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.85c4a2d9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.85c4a2d9.js.map",
+    "static/css/2.4cd7a4c8.chunk.css": "/static/css/2.4cd7a4c8.chunk.css",
+    "static/js/2.b56624ef.chunk.js": "/static/js/2.b56624ef.chunk.js",
+    "static/js/2.b56624ef.chunk.js.map": "/static/js/2.b56624ef.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4cd7a4c8.chunk.css.map": "/static/css/2.4cd7a4c8.chunk.css.map",
+    "static/css/main.913d4371.chunk.css.map": "/static/css/main.913d4371.chunk.css.map",
+    "static/js/2.b56624ef.chunk.js.LICENSE.txt": "/static/js/2.b56624ef.chunk.js.LICENSE.txt",
+    "static/media/Logo_CC-variacao-Coracao-branco.27c1bf0b.svg": "/static/media/Logo_CC-variacao-Coracao-branco.27c1bf0b.svg",
+    "static/media/Logo_CC-variacao-horizontal.1eb1a327.svg": "/static/media/Logo_CC-variacao-horizontal.1eb1a327.svg",
+    "static/media/icon-instagram-rose.8835b56b.svg": "/static/media/icon-instagram-rose.8835b56b.svg",
+    "static/media/icon-linktree.da1b5535.png": "/static/media/icon-linktree.da1b5535.png",
+    "static/media/icon-minhas-assinaturas.8c4cad41.svg": "/static/media/icon-minhas-assinaturas.8c4cad41.svg",
+    "static/media/icon-onlyfans.f7aee155.png": "/static/media/icon-onlyfans.f7aee155.png",
+    "static/media/icon-sair.22cf1776.svg": "/static/media/icon-sair.22cf1776.svg",
+    "static/media/icon-tiktok-rose.3f0725a0.svg": "/static/media/icon-tiktok-rose.3f0725a0.svg",
+    "static/media/icon-twitter-rose.25983fba.svg": "/static/media/icon-twitter-rose.25983fba.svg",
+    "static/media/icon-user-rosa.cfd24dc3.svg": "/static/media/icon-user-rosa.cfd24dc3.svg",
+    "static/media/icon-web.fcab9b9c.png": "/static/media/icon-web.fcab9b9c.png",
+    "static/media/logo-vermelho-clickcompany.38982a14.svg": "/static/media/logo-vermelho-clickcompany.38982a14.svg",
+    "static/media/pix-icon.c3e7be4f.png": "/static/media/pix-icon.c3e7be4f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85c4a2d9.js",
+    "static/css/2.4cd7a4c8.chunk.css",
+    "static/js/2.b56624ef.chunk.js",
+    "static/css/main.913d4371.chunk.css",
+    "static/js/main.72408d3f.chunk.js"
+  ]
+}
